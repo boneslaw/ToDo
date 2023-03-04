@@ -1,7 +1,7 @@
 // ===============================================
 // A simple program for crafting a to-do list that will sort
 // by the deadlines.
-// C.Brock
+// Brock
 // ==============================================
 
 import java.util.*;
